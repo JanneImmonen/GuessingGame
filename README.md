@@ -30,7 +30,7 @@ git clone https://github.com/JanneImmonen/GuessingGame.git
 2. Go to the project directory:
 
 ```bash
-cd guessing-game
+cd GuessingGame
 ```
 
 3. Install dependencies:
